@@ -1,13 +1,13 @@
-package com.otnira.main;
+package com.otnira.evolution.main;
 
 import java.util.LinkedList;
 import java.util.List;
 
-import com.otnira.entity.Awesome;
-import com.otnira.entity.impl.AwesomeIndonesian;
-import com.otnira.entity.impl.AwesomeSingaporean;
-import com.otnira.entity.impl.AwesomeSpaniard;
-import com.otnira.entity.impl.AwesomeSwedish;
+import com.otnira.evolution.entity.Awesome;
+import com.otnira.evolution.entity.impl.AwesomeIndonesian;
+import com.otnira.evolution.entity.impl.AwesomeSingaporean;
+import com.otnira.evolution.entity.impl.AwesomeSpaniard;
+import com.otnira.evolution.entity.impl.AwesomeSwedish;
 
 /**
  * Interface evolution examples. Awesome people who do not implement

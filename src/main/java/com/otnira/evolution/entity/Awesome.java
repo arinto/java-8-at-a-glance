@@ -1,4 +1,4 @@
-package com.otnira.entity;
+package com.otnira.evolution.entity;
 
 /**
  * Awesome interface

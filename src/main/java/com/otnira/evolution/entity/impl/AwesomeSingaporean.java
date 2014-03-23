@@ -1,6 +1,6 @@
-package com.otnira.entity.impl;
+package com.otnira.evolution.entity.impl;
 
-import com.otnira.entity.Awesome;
+import com.otnira.evolution.entity.Awesome;
 
 /**
  * Awesome people from Singapore
