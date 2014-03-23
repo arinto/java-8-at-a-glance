@@ -34,7 +34,7 @@ public class InterfaceEvolutionMain {
         
         awesomePeople.forEach(ap -> {
             ap.sayHello();
-            ap.eat("roti kosong");
+            ap.eat("roti prata kosong");
         });
 
     }
