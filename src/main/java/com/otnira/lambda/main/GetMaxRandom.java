@@ -9,7 +9,7 @@ import com.otnira.lambda.entity.Student;
 /**
  * Main class that randomly generates collection of students
  * and find the maximum of the grade for student in specific year
- * using sequential and parallel stream
+ * using sequential and parallel stream.
  * @author arinto
  *
  */

@@ -6,8 +6,9 @@ import java.util.OptionalInt;
 import com.otnira.lambda.entity.Student;
 
 /**
- * Main class that generate the collection of students
- * deterministically and get the maximum grade of a batch
+ * Main class that generates collection of students
+ * deterministically and finds the maximum grade
+ * of the specified batch.
  * @author arinto
  *
  */
