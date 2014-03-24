@@ -27,7 +27,7 @@ There are several main classes:
 
 Use `java` to execute the main classes, example
 
-```java -CP $CLASSPATH com.otnira.evolution.BasicMain```
+```java -CP $CLASSPATH com.otnira.evolution.main.BasicMain```
 
 License
 -------
