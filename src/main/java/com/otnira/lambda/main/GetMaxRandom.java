@@ -18,7 +18,7 @@ public class GetMaxRandom {
     public static void main (String args[]) {
         
         int year = args.length >= 1? Integer.valueOf(args[0]) : 2013;
-        int numStudentPerBatch = args.length >= 2? Integer.valueOf(args[2]): 1000;
+        int numStudentPerBatch = args.length >= 2? Integer.valueOf(args[1]): 1000;
         
         Collection<Student> students = Util.initRandom(numStudentPerBatch);
         System.out.println("Using sequential stream");
