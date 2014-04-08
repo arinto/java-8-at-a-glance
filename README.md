@@ -1,8 +1,7 @@
 java-8-at-a-glance
 ------------------
 
-This small project contains lambda expresions and interface evolution examples on [What's New on JavaSE 8](http://www.slideshare.net/chukmunnlee/nus-hackers-club-mar-21-whats-new-in-javase-8) presented by Chuk Lee during [NUS Hackers meetup, 21 March 2014](http://nushackers.org/2014/03/friday-hacks-67-march-21/).
-<!---([summary](http://www.otnira.com)) -->
+This small project contains lambda expresions and interface evolution examples on [What's New on JavaSE 8](http://www.slideshare.net/chukmunnlee/nus-hackers-club-mar-21-whats-new-in-javase-8) presented by Chuk Lee during [NUS Hackers meetup, 21 March 2014](http://nushackers.org/2014/03/friday-hacks-67-march-21/). Go [here](http://www.otnira.com/2014/04/08/java-8-at-a-glance/) if you're interested to the talk summary.
 
 Requirements
 ------------
@@ -24,6 +23,10 @@ There are several main classes:
   * number of students per year/batch: self-explained
 4. `c.o.l.m.GetMaxNotRandom`: main class that generates collection of students deterministically and finds the maximum grade of the specified batch. This class has one optional argument:
   * year: year/batch that we are interested to find the maximum
+5. `c.o.l.m.TargetTyping`: some examples on target-typing.
+6. `c.o.l.m.StreamExample`: an example of stream.
+7. `c.o.l.m.ParallelStreamExample`: an example of parallel stream.
+8. `c.o.l.m.StaticMethodReference`: an example of static-method-reference(::).
 
 Use `java` to execute the main classes, example
 
