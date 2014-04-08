@@ -4,6 +4,11 @@ import java.util.Collection;
 
 import com.otnira.lambda.entity.Student;
 
+/**
+ * A simple example that uses parallel Stream on Java 8.
+ * @author arinto
+ *
+ */
 public class ParallelStreamExample {
 
     public static void main(String[] args) {

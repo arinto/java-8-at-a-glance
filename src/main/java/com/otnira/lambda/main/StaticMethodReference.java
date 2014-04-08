@@ -4,6 +4,12 @@ import java.util.HashSet;
 import java.util.Random;
 import java.util.Set;
 
+/**
+ * A simple example that uses static method reference (::)
+ * as a single-abstract-method
+ * @author arinto
+ *
+ */
 public class StaticMethodReference {
 
     public static void main(String[] args) {

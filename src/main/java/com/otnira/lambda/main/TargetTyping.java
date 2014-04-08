@@ -7,6 +7,11 @@ import java.nio.file.DirectoryStream;
 import java.nio.file.Files;
 import java.nio.file.Path;
 
+/**
+ * A simple example that shows how Java 8 perform target-typing.
+ * @author arinto
+ *
+ */
 public class TargetTyping {
 
     public static void main(String[] args) throws IOException {

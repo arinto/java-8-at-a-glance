@@ -4,6 +4,11 @@ import java.util.Collection;
 
 import com.otnira.lambda.entity.Student;
 
+/**
+ * A simple example that uses Stream on Java 8.
+ * @author arinto
+ *
+ */
 public class StreamExample {
 
     public static void main(String[] args) {
